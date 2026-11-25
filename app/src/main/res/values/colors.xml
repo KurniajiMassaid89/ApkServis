@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_navy">#0F172A</color>
+    <color name="card_slate">#1E293B</color>
+    <color name="card_slate_light">#293548</color>
+    <color name="hero_teal">#6B96A3</color>
+    <color name="accent_mint">#D8EFEA</color>
+    <color name="text_dark">#0F172A</color>
+    <color name="text_white">#F8FAFC</color>
+    <color name="text_muted">#94A3B8</color>
+    <color name="text_blue_soft">#7DD3FC</color>
+    <color name="danger_red">#FCA5A5</color>
+</resources>
